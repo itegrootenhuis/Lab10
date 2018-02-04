@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Lab10
 {
-    class Program
+    public class Program
     {
-        public static List<Movie> movieList = new List<Movie>();
+        static List<Movie> movieList = new List<Movie>();
 
         static void Main(string[] args)
         {
@@ -75,7 +75,7 @@ namespace Lab10
             }
         }
 
-        private static void PrintMoviesInCategory(List<string> movieTitles, string userInput)
+        public static void PrintMoviesInCategory(List<string> movieTitles, string userInput)
         {
             Console.WriteLine("\nMovies in the {0} category: ", userInput);
             foreach (string movie in movieTitles)

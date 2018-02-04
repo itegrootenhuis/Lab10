@@ -1,0 +1,15 @@
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\nunit.engine.dll
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\Mono.Cecil.dll
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\Lab10Tests.dll
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\Lab10Tests.pdb
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\Lab10.exe
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\bin\Debug\Lab10.pdb
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\obj\Debug\Lab10Tests.csprojResolveAssemblyReference.cache
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\obj\Debug\Lab10Tests.dll
+C:\Users\TeGro\Documents\Grand Circus\Lab10\Lab10Tests\obj\Debug\Lab10Tests.pdb

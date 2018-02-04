@@ -2,7 +2,7 @@
 
 namespace Lab10
 {
-    internal class Movie
+    public class Movie
     {
         private string title;
         private string category;
@@ -24,7 +24,6 @@ namespace Lab10
                     response.Add(movie.title);
                 }
             }
-
             return response;
         }
     }
